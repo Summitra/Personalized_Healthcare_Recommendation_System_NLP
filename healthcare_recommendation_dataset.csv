@@ -1,0 +1,1201 @@
+age,gender,symptoms,medicine
+61,male,"cold, sneezing, runny nose",Pain Reliever
+24,female,"back pain, muscle ache",Eye Drops
+70,male,"headache, nausea, vomiting",Pain Reliever
+30,female,"back pain, muscle ache",Antacid
+33,female,"joint pain, stiffness, swelling",Pain Reliever
+12,male,"fever, cough, sore throat",Anti-viral
+31,female,"skin rash, itching, redness",Vitamin Supplements
+62,male,"fever, cough, sore throat",Eye Drops
+11,female,"joint pain, stiffness, swelling",Antacid
+39,male,"skin rash, itching, redness",Paracetamol
+47,male,"fatigue, dizziness, weakness",Anti-inflammatory
+11,female,"fatigue, dizziness, weakness",Antihistamine
+73,female,"back pain, muscle ache",Antibiotic
+69,male,"joint pain, stiffness, swelling",Decongestant
+30,female,"back pain, muscle ache",Eye Drops
+42,female,"abdominal pain, diarrhea, bloating",Pain Reliever
+67,male,"headache, nausea, vomiting",Paracetamol
+31,male,"anxiety, insomnia, stress",Cough Syrup
+58,female,"abdominal pain, diarrhea, bloating",Cough Syrup
+68,male,"headache, nausea, vomiting",Decongestant
+51,male,"skin rash, itching, redness",Eye Drops
+69,male,"back pain, muscle ache",Eye Drops
+24,female,"skin rash, itching, redness",Antihistamine
+71,female,"dizziness, blurred vision",Pain Reliever
+71,male,"dizziness, blurred vision",Vitamin Supplements
+56,female,"dizziness, blurred vision",Decongestant
+71,male,"skin rash, itching, redness",Antihistamine
+60,female,"headache, nausea, vomiting",Pain Reliever
+64,male,"dizziness, blurred vision",Anti-viral
+73,male,"joint pain, stiffness, swelling",Paracetamol
+12,female,"fever, body ache, chills",Anti-inflammatory
+60,male,"headache, nausea, vomiting",Vitamin Supplements
+16,female,"dizziness, blurred vision",Anti-viral
+30,female,"chest pain, shortness of breath",Anti-viral
+48,male,"fatigue, dizziness, weakness",Antibiotic
+27,male,"fatigue, dizziness, weakness",Cough Syrup
+13,female,"abdominal pain, diarrhea, bloating",Ibuprofen
+69,male,"fatigue, dizziness, weakness",Paracetamol
+23,male,"headache, nausea, vomiting",Cough Syrup
+18,male,"cold, sneezing, runny nose",Antacid
+62,male,"back pain, muscle ache",Anti-viral
+11,male,"headache, nausea, vomiting",Ibuprofen
+69,female,"fever, body ache, chills",Eye Drops
+53,female,"headache, nausea, vomiting",Cough Syrup
+17,male,"anxiety, insomnia, stress",Antihistamine
+56,male,"back pain, muscle ache",Vitamin Supplements
+44,male,"chest pain, shortness of breath",Cough Syrup
+45,female,"fatigue, dizziness, weakness",Antibiotic
+59,male,"back pain, muscle ache",Anti-inflammatory
+13,female,"fatigue, dizziness, weakness",Antihistamine
+11,female,"abdominal pain, diarrhea, bloating",Paracetamol
+15,female,"back pain, muscle ache",Paracetamol
+63,male,"dizziness, blurred vision",Paracetamol
+13,female,"fatigue, dizziness, weakness",Paracetamol
+63,male,"chest pain, shortness of breath",Anti-inflammatory
+72,female,"dizziness, blurred vision",Cough Syrup
+27,male,"fever, cough, sore throat",Pain Reliever
+53,female,"skin rash, itching, redness",Cough Syrup
+43,male,"skin rash, itching, redness",Anti-viral
+71,female,"chest pain, shortness of breath",Antacid
+23,male,"anxiety, insomnia, stress",Vitamin Supplements
+57,male,"fever, cough, sore throat",Ibuprofen
+24,male,"abdominal pain, diarrhea, bloating",Pain Reliever
+71,male,"chest pain, shortness of breath",Pain Reliever
+49,female,"dizziness, blurred vision",Anti-viral
+62,female,"skin rash, itching, redness",Cough Syrup
+33,male,"skin rash, itching, redness",Pain Reliever
+35,female,"skin rash, itching, redness",Decongestant
+69,male,"dizziness, blurred vision",Decongestant
+50,male,"joint pain, stiffness, swelling",Antacid
+38,female,"chest pain, shortness of breath",Eye Drops
+24,male,"headache, nausea, vomiting",Ibuprofen
+54,male,"abdominal pain, diarrhea, bloating",Antibiotic
+74,female,"skin rash, itching, redness",Anti-inflammatory
+18,male,"fatigue, dizziness, weakness",Cough Syrup
+10,male,"chest pain, shortness of breath",Anti-inflammatory
+17,male,"fever, body ache, chills",Antibiotic
+72,male,"dizziness, blurred vision",Cough Syrup
+20,female,"joint pain, stiffness, swelling",Cough Syrup
+17,female,"chest pain, shortness of breath",Ibuprofen
+44,female,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+44,male,"joint pain, stiffness, swelling",Decongestant
+42,male,"abdominal pain, diarrhea, bloating",Paracetamol
+14,female,"chest pain, shortness of breath",Anti-inflammatory
+50,male,"headache, nausea, vomiting",Vitamin Supplements
+37,male,"fever, body ache, chills",Vitamin Supplements
+16,male,"abdominal pain, diarrhea, bloating",Cough Syrup
+21,male,"joint pain, stiffness, swelling",Paracetamol
+43,female,"joint pain, stiffness, swelling",Antihistamine
+42,female,"abdominal pain, diarrhea, bloating",Antibiotic
+57,female,"cold, sneezing, runny nose",Antacid
+32,male,"chest pain, shortness of breath",Paracetamol
+71,female,"cold, sneezing, runny nose",Antacid
+46,female,"anxiety, insomnia, stress",Anti-inflammatory
+53,male,"chest pain, shortness of breath",Anti-inflammatory
+44,male,"abdominal pain, diarrhea, bloating",Antacid
+74,female,"fever, cough, sore throat",Eye Drops
+56,female,"abdominal pain, diarrhea, bloating",Antibiotic
+12,female,"cold, sneezing, runny nose",Paracetamol
+10,female,"headache, nausea, vomiting",Antihistamine
+14,male,"abdominal pain, diarrhea, bloating",Cough Syrup
+23,female,"abdominal pain, diarrhea, bloating",Ibuprofen
+36,female,"headache, nausea, vomiting",Anti-inflammatory
+18,male,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+24,female,"skin rash, itching, redness",Antibiotic
+51,male,"fever, cough, sore throat",Ibuprofen
+60,male,"fatigue, dizziness, weakness",Antihistamine
+72,male,"fever, cough, sore throat",Pain Reliever
+61,female,"dizziness, blurred vision",Anti-viral
+13,female,"fever, body ache, chills",Cough Syrup
+32,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+24,female,"skin rash, itching, redness",Cough Syrup
+52,female,"chest pain, shortness of breath",Eye Drops
+38,male,"abdominal pain, diarrhea, bloating",Ibuprofen
+45,male,"cold, sneezing, runny nose",Cough Syrup
+22,female,"skin rash, itching, redness",Anti-viral
+41,male,"headache, nausea, vomiting",Pain Reliever
+68,female,"skin rash, itching, redness",Ibuprofen
+37,female,"dizziness, blurred vision",Anti-inflammatory
+75,female,"headache, nausea, vomiting",Paracetamol
+51,female,"anxiety, insomnia, stress",Vitamin Supplements
+54,male,"fatigue, dizziness, weakness",Ibuprofen
+71,male,"back pain, muscle ache",Decongestant
+66,male,"skin rash, itching, redness",Eye Drops
+15,male,"joint pain, stiffness, swelling",Pain Reliever
+37,female,"cold, sneezing, runny nose",Eye Drops
+37,female,"abdominal pain, diarrhea, bloating",Ibuprofen
+53,male,"cold, sneezing, runny nose",Ibuprofen
+39,female,"fever, cough, sore throat",Decongestant
+71,female,"back pain, muscle ache",Anti-inflammatory
+71,female,"fever, cough, sore throat",Eye Drops
+10,male,"anxiety, insomnia, stress",Ibuprofen
+36,male,"back pain, muscle ache",Vitamin Supplements
+71,male,"back pain, muscle ache",Cough Syrup
+12,female,"fever, cough, sore throat",Anti-inflammatory
+79,male,"headache, nausea, vomiting",Vitamin Supplements
+36,male,"dizziness, blurred vision",Anti-inflammatory
+18,male,"fever, cough, sore throat",Vitamin Supplements
+71,male,"cold, sneezing, runny nose",Anti-viral
+46,male,"headache, nausea, vomiting",Pain Reliever
+60,male,"cold, sneezing, runny nose",Vitamin Supplements
+53,female,"dizziness, blurred vision",Antacid
+33,female,"anxiety, insomnia, stress",Vitamin Supplements
+68,male,"abdominal pain, diarrhea, bloating",Paracetamol
+41,male,"dizziness, blurred vision",Paracetamol
+61,female,"fever, body ache, chills",Antibiotic
+71,female,"chest pain, shortness of breath",Antacid
+67,male,"headache, nausea, vomiting",Antacid
+61,male,"anxiety, insomnia, stress",Cough Syrup
+21,male,"fever, body ache, chills",Antacid
+48,male,"joint pain, stiffness, swelling",Cough Syrup
+11,female,"anxiety, insomnia, stress",Antibiotic
+12,male,"fever, cough, sore throat",Antibiotic
+65,male,"fever, cough, sore throat",Pain Reliever
+68,male,"dizziness, blurred vision",Paracetamol
+11,male,"chest pain, shortness of breath",Vitamin Supplements
+11,female,"anxiety, insomnia, stress",Vitamin Supplements
+63,female,"fatigue, dizziness, weakness",Decongestant
+10,female,"abdominal pain, diarrhea, bloating",Decongestant
+28,male,"dizziness, blurred vision",Antihistamine
+11,male,"fever, cough, sore throat",Anti-inflammatory
+62,female,"chest pain, shortness of breath",Pain Reliever
+53,male,"abdominal pain, diarrhea, bloating",Antihistamine
+41,male,"anxiety, insomnia, stress",Antihistamine
+79,female,"anxiety, insomnia, stress",Ibuprofen
+41,female,"back pain, muscle ache",Ibuprofen
+77,female,"chest pain, shortness of breath",Eye Drops
+64,female,"fever, body ache, chills",Antihistamine
+65,male,"fever, cough, sore throat",Antacid
+26,male,"fatigue, dizziness, weakness",Anti-inflammatory
+47,female,"anxiety, insomnia, stress",Pain Reliever
+33,male,"fatigue, dizziness, weakness",Antihistamine
+78,female,"anxiety, insomnia, stress",Anti-viral
+79,female,"fever, cough, sore throat",Vitamin Supplements
+20,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+25,female,"skin rash, itching, redness",Ibuprofen
+68,male,"abdominal pain, diarrhea, bloating",Eye Drops
+79,male,"anxiety, insomnia, stress",Vitamin Supplements
+12,male,"cold, sneezing, runny nose",Ibuprofen
+29,male,"skin rash, itching, redness",Ibuprofen
+68,female,"fever, body ache, chills",Anti-inflammatory
+45,male,"skin rash, itching, redness",Ibuprofen
+28,female,"fatigue, dizziness, weakness",Anti-viral
+76,female,"chest pain, shortness of breath",Antibiotic
+28,female,"fatigue, dizziness, weakness",Eye Drops
+29,female,"dizziness, blurred vision",Paracetamol
+61,male,"fatigue, dizziness, weakness",Antibiotic
+42,male,"fever, body ache, chills",Paracetamol
+49,female,"cold, sneezing, runny nose",Decongestant
+48,female,"abdominal pain, diarrhea, bloating",Decongestant
+10,male,"abdominal pain, diarrhea, bloating",Ibuprofen
+20,female,"joint pain, stiffness, swelling",Pain Reliever
+66,male,"anxiety, insomnia, stress",Pain Reliever
+59,female,"cold, sneezing, runny nose",Paracetamol
+32,male,"joint pain, stiffness, swelling",Vitamin Supplements
+40,female,"dizziness, blurred vision",Anti-inflammatory
+51,female,"fever, cough, sore throat",Ibuprofen
+16,male,"anxiety, insomnia, stress",Anti-inflammatory
+25,female,"anxiety, insomnia, stress",Antibiotic
+69,female,"back pain, muscle ache",Pain Reliever
+11,male,"back pain, muscle ache",Antacid
+10,female,"headache, nausea, vomiting",Eye Drops
+57,male,"headache, nausea, vomiting",Antibiotic
+21,male,"fatigue, dizziness, weakness",Eye Drops
+78,female,"fever, cough, sore throat",Anti-viral
+46,female,"skin rash, itching, redness",Antibiotic
+41,female,"skin rash, itching, redness",Paracetamol
+18,female,"back pain, muscle ache",Anti-viral
+28,female,"back pain, muscle ache",Cough Syrup
+57,female,"back pain, muscle ache",Antibiotic
+12,female,"cold, sneezing, runny nose",Anti-viral
+29,male,"chest pain, shortness of breath",Ibuprofen
+33,female,"headache, nausea, vomiting",Eye Drops
+63,male,"cold, sneezing, runny nose",Antihistamine
+42,female,"abdominal pain, diarrhea, bloating",Antihistamine
+33,female,"skin rash, itching, redness",Ibuprofen
+45,male,"dizziness, blurred vision",Cough Syrup
+47,female,"fever, body ache, chills",Cough Syrup
+34,female,"anxiety, insomnia, stress",Paracetamol
+27,male,"headache, nausea, vomiting",Pain Reliever
+75,female,"joint pain, stiffness, swelling",Anti-inflammatory
+63,female,"abdominal pain, diarrhea, bloating",Eye Drops
+44,female,"dizziness, blurred vision",Cough Syrup
+70,male,"headache, nausea, vomiting",Antacid
+50,female,"fever, body ache, chills",Paracetamol
+42,female,"cold, sneezing, runny nose",Decongestant
+77,female,"fever, cough, sore throat",Vitamin Supplements
+42,female,"anxiety, insomnia, stress",Decongestant
+23,male,"headache, nausea, vomiting",Paracetamol
+30,male,"chest pain, shortness of breath",Eye Drops
+57,female,"back pain, muscle ache",Anti-viral
+29,female,"back pain, muscle ache",Antibiotic
+17,male,"anxiety, insomnia, stress",Anti-inflammatory
+16,male,"fever, body ache, chills",Vitamin Supplements
+76,female,"dizziness, blurred vision",Decongestant
+26,male,"cold, sneezing, runny nose",Vitamin Supplements
+42,female,"back pain, muscle ache",Antacid
+57,male,"headache, nausea, vomiting",Antacid
+68,male,"joint pain, stiffness, swelling",Anti-viral
+31,male,"skin rash, itching, redness",Antacid
+39,male,"skin rash, itching, redness",Paracetamol
+47,female,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+60,male,"dizziness, blurred vision",Eye Drops
+63,male,"fatigue, dizziness, weakness",Anti-viral
+17,female,"fever, cough, sore throat",Paracetamol
+36,male,"anxiety, insomnia, stress",Antihistamine
+36,male,"abdominal pain, diarrhea, bloating",Antibiotic
+30,female,"fatigue, dizziness, weakness",Antibiotic
+39,male,"cold, sneezing, runny nose",Antacid
+37,female,"chest pain, shortness of breath",Antihistamine
+73,female,"chest pain, shortness of breath",Cough Syrup
+78,female,"fever, cough, sore throat",Cough Syrup
+70,female,"dizziness, blurred vision",Eye Drops
+57,male,"back pain, muscle ache",Antacid
+28,female,"headache, nausea, vomiting",Decongestant
+13,male,"abdominal pain, diarrhea, bloating",Paracetamol
+44,male,"abdominal pain, diarrhea, bloating",Antacid
+73,male,"anxiety, insomnia, stress",Pain Reliever
+58,male,"anxiety, insomnia, stress",Vitamin Supplements
+26,male,"chest pain, shortness of breath",Eye Drops
+53,male,"chest pain, shortness of breath",Antibiotic
+39,male,"dizziness, blurred vision",Cough Syrup
+55,male,"fever, body ache, chills",Ibuprofen
+15,male,"joint pain, stiffness, swelling",Cough Syrup
+46,male,"joint pain, stiffness, swelling",Eye Drops
+33,female,"fever, body ache, chills",Antibiotic
+55,female,"back pain, muscle ache",Eye Drops
+62,female,"joint pain, stiffness, swelling",Vitamin Supplements
+69,male,"dizziness, blurred vision",Antibiotic
+72,female,"headache, nausea, vomiting",Ibuprofen
+41,female,"headache, nausea, vomiting",Antacid
+42,female,"abdominal pain, diarrhea, bloating",Antihistamine
+76,male,"skin rash, itching, redness",Ibuprofen
+27,male,"fever, body ache, chills",Antibiotic
+34,male,"headache, nausea, vomiting",Antibiotic
+63,male,"fatigue, dizziness, weakness",Pain Reliever
+67,female,"chest pain, shortness of breath",Anti-viral
+76,female,"anxiety, insomnia, stress",Pain Reliever
+55,female,"dizziness, blurred vision",Anti-inflammatory
+33,female,"joint pain, stiffness, swelling",Pain Reliever
+41,male,"fever, body ache, chills",Paracetamol
+56,male,"abdominal pain, diarrhea, bloating",Antihistamine
+32,male,"fever, cough, sore throat",Vitamin Supplements
+75,female,"anxiety, insomnia, stress",Ibuprofen
+36,male,"fatigue, dizziness, weakness",Antibiotic
+11,male,"joint pain, stiffness, swelling",Anti-inflammatory
+26,female,"fatigue, dizziness, weakness",Anti-inflammatory
+42,female,"chest pain, shortness of breath",Vitamin Supplements
+18,male,"chest pain, shortness of breath",Antihistamine
+52,male,"dizziness, blurred vision",Ibuprofen
+57,male,"back pain, muscle ache",Cough Syrup
+48,male,"abdominal pain, diarrhea, bloating",Eye Drops
+51,male,"anxiety, insomnia, stress",Pain Reliever
+35,male,"cold, sneezing, runny nose",Eye Drops
+59,female,"cold, sneezing, runny nose",Eye Drops
+34,female,"anxiety, insomnia, stress",Antacid
+33,female,"fever, cough, sore throat",Eye Drops
+22,male,"dizziness, blurred vision",Anti-inflammatory
+69,female,"abdominal pain, diarrhea, bloating",Pain Reliever
+16,male,"fatigue, dizziness, weakness",Pain Reliever
+66,male,"fever, cough, sore throat",Paracetamol
+45,female,"skin rash, itching, redness",Antihistamine
+54,male,"anxiety, insomnia, stress",Antacid
+29,male,"fatigue, dizziness, weakness",Eye Drops
+74,female,"cold, sneezing, runny nose",Anti-viral
+17,female,"headache, nausea, vomiting",Cough Syrup
+25,female,"fever, body ache, chills",Antibiotic
+23,male,"back pain, muscle ache",Paracetamol
+24,female,"cold, sneezing, runny nose",Pain Reliever
+75,female,"abdominal pain, diarrhea, bloating",Pain Reliever
+41,male,"chest pain, shortness of breath",Decongestant
+72,female,"fever, body ache, chills",Antacid
+60,female,"fever, body ache, chills",Eye Drops
+34,female,"headache, nausea, vomiting",Antacid
+67,male,"back pain, muscle ache",Decongestant
+72,male,"back pain, muscle ache",Antacid
+71,male,"skin rash, itching, redness",Pain Reliever
+31,male,"skin rash, itching, redness",Anti-inflammatory
+67,female,"joint pain, stiffness, swelling",Ibuprofen
+67,male,"cold, sneezing, runny nose",Pain Reliever
+58,male,"cold, sneezing, runny nose",Paracetamol
+61,female,"cold, sneezing, runny nose",Antihistamine
+51,female,"joint pain, stiffness, swelling",Decongestant
+79,female,"dizziness, blurred vision",Cough Syrup
+24,male,"fever, cough, sore throat",Antibiotic
+63,male,"back pain, muscle ache",Cough Syrup
+69,male,"headache, nausea, vomiting",Pain Reliever
+17,female,"abdominal pain, diarrhea, bloating",Paracetamol
+62,female,"back pain, muscle ache",Eye Drops
+69,male,"skin rash, itching, redness",Pain Reliever
+14,female,"fever, body ache, chills",Antihistamine
+77,female,"fatigue, dizziness, weakness",Anti-inflammatory
+15,female,"chest pain, shortness of breath",Anti-viral
+56,male,"joint pain, stiffness, swelling",Antibiotic
+64,female,"anxiety, insomnia, stress",Antihistamine
+49,female,"fatigue, dizziness, weakness",Decongestant
+61,male,"abdominal pain, diarrhea, bloating",Eye Drops
+25,male,"cold, sneezing, runny nose",Decongestant
+22,female,"skin rash, itching, redness",Pain Reliever
+39,female,"skin rash, itching, redness",Paracetamol
+28,male,"skin rash, itching, redness",Antihistamine
+26,male,"cold, sneezing, runny nose",Vitamin Supplements
+72,female,"anxiety, insomnia, stress",Eye Drops
+28,female,"joint pain, stiffness, swelling",Paracetamol
+67,female,"fatigue, dizziness, weakness",Anti-inflammatory
+64,female,"cold, sneezing, runny nose",Eye Drops
+71,male,"abdominal pain, diarrhea, bloating",Decongestant
+32,female,"joint pain, stiffness, swelling",Eye Drops
+18,female,"abdominal pain, diarrhea, bloating",Anti-viral
+21,male,"joint pain, stiffness, swelling",Pain Reliever
+10,female,"anxiety, insomnia, stress",Antacid
+67,male,"chest pain, shortness of breath",Decongestant
+10,female,"abdominal pain, diarrhea, bloating",Anti-viral
+43,female,"cold, sneezing, runny nose",Antibiotic
+57,male,"joint pain, stiffness, swelling",Ibuprofen
+10,male,"skin rash, itching, redness",Antacid
+25,female,"dizziness, blurred vision",Pain Reliever
+70,female,"back pain, muscle ache",Vitamin Supplements
+73,female,"skin rash, itching, redness",Antacid
+72,male,"fever, cough, sore throat",Antibiotic
+78,female,"chest pain, shortness of breath",Paracetamol
+31,male,"chest pain, shortness of breath",Vitamin Supplements
+76,male,"skin rash, itching, redness",Decongestant
+35,female,"fatigue, dizziness, weakness",Vitamin Supplements
+25,male,"anxiety, insomnia, stress",Antihistamine
+60,female,"abdominal pain, diarrhea, bloating",Antibiotic
+66,female,"cold, sneezing, runny nose",Eye Drops
+38,female,"chest pain, shortness of breath",Anti-viral
+78,female,"skin rash, itching, redness",Antacid
+56,female,"skin rash, itching, redness",Antihistamine
+71,male,"anxiety, insomnia, stress",Vitamin Supplements
+78,male,"anxiety, insomnia, stress",Antihistamine
+25,female,"headache, nausea, vomiting",Cough Syrup
+57,female,"headache, nausea, vomiting",Antibiotic
+48,male,"fatigue, dizziness, weakness",Anti-viral
+42,male,"dizziness, blurred vision",Anti-inflammatory
+32,male,"dizziness, blurred vision",Paracetamol
+19,male,"fatigue, dizziness, weakness",Vitamin Supplements
+78,female,"fever, cough, sore throat",Antibiotic
+43,female,"fatigue, dizziness, weakness",Anti-inflammatory
+61,male,"joint pain, stiffness, swelling",Anti-inflammatory
+19,female,"anxiety, insomnia, stress",Pain Reliever
+28,male,"dizziness, blurred vision",Anti-viral
+67,female,"cold, sneezing, runny nose",Antihistamine
+10,male,"joint pain, stiffness, swelling",Anti-inflammatory
+78,female,"abdominal pain, diarrhea, bloating",Cough Syrup
+13,male,"skin rash, itching, redness",Antibiotic
+25,male,"fatigue, dizziness, weakness",Ibuprofen
+33,female,"skin rash, itching, redness",Ibuprofen
+11,male,"chest pain, shortness of breath",Eye Drops
+41,female,"fever, cough, sore throat",Eye Drops
+33,female,"chest pain, shortness of breath",Vitamin Supplements
+21,male,"fever, cough, sore throat",Eye Drops
+59,female,"headache, nausea, vomiting",Decongestant
+44,female,"skin rash, itching, redness",Antihistamine
+42,female,"fever, cough, sore throat",Decongestant
+42,female,"fever, body ache, chills",Anti-inflammatory
+70,female,"dizziness, blurred vision",Antibiotic
+60,male,"fever, body ache, chills",Vitamin Supplements
+52,female,"fever, body ache, chills",Antacid
+21,female,"back pain, muscle ache",Anti-inflammatory
+76,female,"dizziness, blurred vision",Antihistamine
+74,female,"joint pain, stiffness, swelling",Ibuprofen
+42,female,"fever, cough, sore throat",Anti-viral
+49,male,"fever, cough, sore throat",Eye Drops
+52,female,"joint pain, stiffness, swelling",Pain Reliever
+53,male,"skin rash, itching, redness",Antibiotic
+38,male,"skin rash, itching, redness",Paracetamol
+22,male,"fever, body ache, chills",Anti-viral
+21,male,"joint pain, stiffness, swelling",Decongestant
+55,female,"dizziness, blurred vision",Eye Drops
+11,male,"fever, body ache, chills",Vitamin Supplements
+44,male,"chest pain, shortness of breath",Decongestant
+17,female,"back pain, muscle ache",Antibiotic
+35,female,"cold, sneezing, runny nose",Decongestant
+43,female,"abdominal pain, diarrhea, bloating",Antibiotic
+16,male,"back pain, muscle ache",Decongestant
+77,female,"skin rash, itching, redness",Anti-viral
+67,female,"cold, sneezing, runny nose",Cough Syrup
+38,male,"headache, nausea, vomiting",Anti-viral
+45,female,"fatigue, dizziness, weakness",Antacid
+30,female,"fever, body ache, chills",Anti-inflammatory
+45,female,"fever, cough, sore throat",Anti-inflammatory
+19,female,"joint pain, stiffness, swelling",Antihistamine
+33,male,"joint pain, stiffness, swelling",Eye Drops
+73,female,"fever, cough, sore throat",Anti-viral
+58,female,"fever, body ache, chills",Anti-viral
+45,male,"fatigue, dizziness, weakness",Paracetamol
+33,female,"abdominal pain, diarrhea, bloating",Paracetamol
+32,male,"fatigue, dizziness, weakness",Antihistamine
+71,female,"cold, sneezing, runny nose",Pain Reliever
+46,male,"fatigue, dizziness, weakness",Anti-inflammatory
+21,male,"cold, sneezing, runny nose",Pain Reliever
+64,male,"fatigue, dizziness, weakness",Eye Drops
+22,male,"abdominal pain, diarrhea, bloating",Antibiotic
+32,female,"abdominal pain, diarrhea, bloating",Antibiotic
+39,male,"skin rash, itching, redness",Ibuprofen
+26,female,"fever, cough, sore throat",Decongestant
+71,male,"abdominal pain, diarrhea, bloating",Paracetamol
+22,male,"cold, sneezing, runny nose",Ibuprofen
+68,male,"abdominal pain, diarrhea, bloating",Antacid
+28,female,"skin rash, itching, redness",Antihistamine
+58,male,"joint pain, stiffness, swelling",Antihistamine
+21,female,"cold, sneezing, runny nose",Antibiotic
+70,female,"skin rash, itching, redness",Anti-viral
+28,female,"chest pain, shortness of breath",Anti-inflammatory
+18,female,"chest pain, shortness of breath",Pain Reliever
+37,female,"headache, nausea, vomiting",Paracetamol
+61,female,"fatigue, dizziness, weakness",Ibuprofen
+25,female,"fever, cough, sore throat",Pain Reliever
+78,female,"anxiety, insomnia, stress",Anti-viral
+21,female,"back pain, muscle ache",Ibuprofen
+34,male,"skin rash, itching, redness",Decongestant
+61,male,"joint pain, stiffness, swelling",Antacid
+62,male,"back pain, muscle ache",Antacid
+32,male,"joint pain, stiffness, swelling",Pain Reliever
+25,male,"dizziness, blurred vision",Pain Reliever
+66,female,"dizziness, blurred vision",Pain Reliever
+48,female,"dizziness, blurred vision",Ibuprofen
+62,female,"back pain, muscle ache",Decongestant
+51,female,"skin rash, itching, redness",Cough Syrup
+67,female,"anxiety, insomnia, stress",Pain Reliever
+48,female,"back pain, muscle ache",Anti-inflammatory
+23,female,"skin rash, itching, redness",Eye Drops
+14,male,"abdominal pain, diarrhea, bloating",Anti-viral
+44,male,"anxiety, insomnia, stress",Eye Drops
+27,male,"dizziness, blurred vision",Paracetamol
+18,male,"cold, sneezing, runny nose",Paracetamol
+67,female,"joint pain, stiffness, swelling",Anti-viral
+26,female,"dizziness, blurred vision",Ibuprofen
+16,female,"chest pain, shortness of breath",Anti-viral
+55,male,"fatigue, dizziness, weakness",Eye Drops
+22,female,"chest pain, shortness of breath",Eye Drops
+49,female,"dizziness, blurred vision",Pain Reliever
+51,female,"anxiety, insomnia, stress",Antibiotic
+18,male,"cold, sneezing, runny nose",Antihistamine
+59,female,"joint pain, stiffness, swelling",Cough Syrup
+36,male,"cold, sneezing, runny nose",Eye Drops
+75,male,"back pain, muscle ache",Anti-inflammatory
+14,male,"joint pain, stiffness, swelling",Anti-viral
+38,male,"dizziness, blurred vision",Decongestant
+46,female,"back pain, muscle ache",Antibiotic
+47,male,"skin rash, itching, redness",Eye Drops
+17,male,"anxiety, insomnia, stress",Anti-viral
+74,female,"fever, body ache, chills",Antacid
+26,female,"skin rash, itching, redness",Antibiotic
+54,male,"headache, nausea, vomiting",Ibuprofen
+13,female,"cold, sneezing, runny nose",Cough Syrup
+45,male,"fever, body ache, chills",Vitamin Supplements
+79,male,"back pain, muscle ache",Vitamin Supplements
+40,male,"abdominal pain, diarrhea, bloating",Pain Reliever
+28,male,"skin rash, itching, redness",Pain Reliever
+70,female,"headache, nausea, vomiting",Ibuprofen
+63,male,"fever, cough, sore throat",Decongestant
+48,female,"fever, body ache, chills",Pain Reliever
+28,female,"chest pain, shortness of breath",Antihistamine
+48,female,"joint pain, stiffness, swelling",Eye Drops
+76,female,"headache, nausea, vomiting",Cough Syrup
+54,male,"anxiety, insomnia, stress",Anti-viral
+22,female,"fever, body ache, chills",Ibuprofen
+67,male,"skin rash, itching, redness",Paracetamol
+29,female,"anxiety, insomnia, stress",Anti-viral
+70,female,"chest pain, shortness of breath",Anti-viral
+48,male,"abdominal pain, diarrhea, bloating",Antacid
+10,male,"cold, sneezing, runny nose",Ibuprofen
+12,male,"cold, sneezing, runny nose",Ibuprofen
+71,female,"dizziness, blurred vision",Vitamin Supplements
+72,female,"anxiety, insomnia, stress",Anti-inflammatory
+34,male,"back pain, muscle ache",Decongestant
+65,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+42,male,"cold, sneezing, runny nose",Antihistamine
+47,male,"abdominal pain, diarrhea, bloating",Paracetamol
+15,female,"headache, nausea, vomiting",Anti-viral
+67,male,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+53,male,"fatigue, dizziness, weakness",Paracetamol
+54,male,"chest pain, shortness of breath",Anti-viral
+41,male,"cold, sneezing, runny nose",Antihistamine
+54,female,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+70,male,"anxiety, insomnia, stress",Ibuprofen
+56,female,"fever, cough, sore throat",Pain Reliever
+30,male,"fatigue, dizziness, weakness",Pain Reliever
+45,male,"fatigue, dizziness, weakness",Eye Drops
+28,female,"back pain, muscle ache",Antibiotic
+29,male,"abdominal pain, diarrhea, bloating",Antacid
+66,female,"dizziness, blurred vision",Decongestant
+27,female,"back pain, muscle ache",Antihistamine
+56,male,"back pain, muscle ache",Antacid
+58,female,"fever, cough, sore throat",Eye Drops
+23,female,"headache, nausea, vomiting",Eye Drops
+24,female,"abdominal pain, diarrhea, bloating",Decongestant
+40,female,"skin rash, itching, redness",Anti-viral
+10,female,"cold, sneezing, runny nose",Antacid
+63,female,"back pain, muscle ache",Anti-inflammatory
+12,female,"chest pain, shortness of breath",Decongestant
+25,female,"joint pain, stiffness, swelling",Eye Drops
+66,male,"chest pain, shortness of breath",Anti-inflammatory
+21,male,"fever, cough, sore throat",Ibuprofen
+25,female,"fever, cough, sore throat",Vitamin Supplements
+33,male,"anxiety, insomnia, stress",Anti-inflammatory
+37,female,"headache, nausea, vomiting",Anti-viral
+17,female,"dizziness, blurred vision",Pain Reliever
+45,male,"cold, sneezing, runny nose",Antacid
+17,female,"fever, body ache, chills",Anti-viral
+67,female,"back pain, muscle ache",Antibiotic
+69,female,"chest pain, shortness of breath",Cough Syrup
+59,female,"joint pain, stiffness, swelling",Eye Drops
+37,male,"fever, cough, sore throat",Decongestant
+50,female,"fever, cough, sore throat",Antihistamine
+73,female,"headache, nausea, vomiting",Antibiotic
+36,female,"joint pain, stiffness, swelling",Pain Reliever
+72,male,"joint pain, stiffness, swelling",Anti-inflammatory
+26,female,"headache, nausea, vomiting",Vitamin Supplements
+42,male,"fever, cough, sore throat",Anti-viral
+38,male,"cold, sneezing, runny nose",Ibuprofen
+22,female,"abdominal pain, diarrhea, bloating",Cough Syrup
+55,female,"abdominal pain, diarrhea, bloating",Paracetamol
+44,male,"headache, nausea, vomiting",Antibiotic
+15,female,"joint pain, stiffness, swelling",Vitamin Supplements
+78,male,"back pain, muscle ache",Paracetamol
+56,male,"headache, nausea, vomiting",Cough Syrup
+34,female,"cold, sneezing, runny nose",Antihistamine
+75,female,"headache, nausea, vomiting",Antihistamine
+19,male,"fatigue, dizziness, weakness",Antacid
+65,male,"chest pain, shortness of breath",Cough Syrup
+39,male,"joint pain, stiffness, swelling",Cough Syrup
+14,male,"dizziness, blurred vision",Paracetamol
+42,female,"anxiety, insomnia, stress",Vitamin Supplements
+74,female,"anxiety, insomnia, stress",Anti-viral
+27,female,"joint pain, stiffness, swelling",Decongestant
+58,female,"dizziness, blurred vision",Paracetamol
+20,female,"fever, body ache, chills",Ibuprofen
+35,male,"cold, sneezing, runny nose",Antihistamine
+72,female,"fatigue, dizziness, weakness",Antihistamine
+68,female,"fatigue, dizziness, weakness",Antacid
+36,female,"fever, cough, sore throat",Anti-viral
+58,female,"chest pain, shortness of breath",Ibuprofen
+42,female,"abdominal pain, diarrhea, bloating",Antihistamine
+10,male,"skin rash, itching, redness",Paracetamol
+30,male,"cold, sneezing, runny nose",Ibuprofen
+64,male,"skin rash, itching, redness",Paracetamol
+15,female,"skin rash, itching, redness",Decongestant
+78,male,"joint pain, stiffness, swelling",Decongestant
+14,male,"anxiety, insomnia, stress",Antihistamine
+12,female,"anxiety, insomnia, stress",Antihistamine
+62,female,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+32,female,"joint pain, stiffness, swelling",Decongestant
+62,male,"skin rash, itching, redness",Anti-viral
+46,male,"dizziness, blurred vision",Anti-viral
+26,female,"fever, body ache, chills",Antibiotic
+10,female,"back pain, muscle ache",Antibiotic
+60,male,"anxiety, insomnia, stress",Antacid
+54,male,"cold, sneezing, runny nose",Decongestant
+13,female,"dizziness, blurred vision",Paracetamol
+71,female,"cold, sneezing, runny nose",Paracetamol
+74,male,"fever, cough, sore throat",Pain Reliever
+41,female,"headache, nausea, vomiting",Ibuprofen
+43,male,"back pain, muscle ache",Anti-inflammatory
+48,male,"anxiety, insomnia, stress",Antibiotic
+35,male,"fatigue, dizziness, weakness",Antihistamine
+43,male,"anxiety, insomnia, stress",Antacid
+63,female,"dizziness, blurred vision",Anti-viral
+12,female,"fever, cough, sore throat",Anti-inflammatory
+59,male,"cold, sneezing, runny nose",Cough Syrup
+21,male,"skin rash, itching, redness",Antacid
+74,male,"fatigue, dizziness, weakness",Cough Syrup
+63,male,"joint pain, stiffness, swelling",Eye Drops
+14,male,"chest pain, shortness of breath",Decongestant
+66,female,"skin rash, itching, redness",Cough Syrup
+26,female,"chest pain, shortness of breath",Cough Syrup
+56,female,"back pain, muscle ache",Eye Drops
+32,female,"fever, body ache, chills",Vitamin Supplements
+23,male,"headache, nausea, vomiting",Vitamin Supplements
+75,male,"fever, body ache, chills",Vitamin Supplements
+60,male,"fatigue, dizziness, weakness",Decongestant
+47,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+73,male,"fatigue, dizziness, weakness",Antacid
+47,female,"fever, body ache, chills",Antacid
+59,male,"anxiety, insomnia, stress",Antihistamine
+39,female,"dizziness, blurred vision",Vitamin Supplements
+60,female,"cold, sneezing, runny nose",Decongestant
+72,female,"anxiety, insomnia, stress",Antihistamine
+61,female,"anxiety, insomnia, stress",Ibuprofen
+47,male,"dizziness, blurred vision",Antihistamine
+39,female,"dizziness, blurred vision",Anti-inflammatory
+60,female,"back pain, muscle ache",Antibiotic
+14,female,"skin rash, itching, redness",Cough Syrup
+38,male,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+13,male,"abdominal pain, diarrhea, bloating",Eye Drops
+19,male,"anxiety, insomnia, stress",Antibiotic
+65,female,"chest pain, shortness of breath",Anti-viral
+26,female,"back pain, muscle ache",Antihistamine
+26,male,"anxiety, insomnia, stress",Decongestant
+78,female,"headache, nausea, vomiting",Cough Syrup
+43,male,"cold, sneezing, runny nose",Antacid
+15,male,"dizziness, blurred vision",Paracetamol
+62,female,"skin rash, itching, redness",Cough Syrup
+75,female,"joint pain, stiffness, swelling",Anti-inflammatory
+52,female,"dizziness, blurred vision",Anti-viral
+32,female,"headache, nausea, vomiting",Anti-inflammatory
+64,male,"chest pain, shortness of breath",Antihistamine
+25,male,"fatigue, dizziness, weakness",Ibuprofen
+17,male,"fatigue, dizziness, weakness",Anti-inflammatory
+13,male,"fever, body ache, chills",Anti-inflammatory
+13,male,"headache, nausea, vomiting",Decongestant
+65,female,"fever, body ache, chills",Antihistamine
+34,male,"anxiety, insomnia, stress",Cough Syrup
+76,male,"joint pain, stiffness, swelling",Ibuprofen
+76,male,"fever, cough, sore throat",Antibiotic
+36,female,"dizziness, blurred vision",Paracetamol
+41,female,"fever, cough, sore throat",Vitamin Supplements
+59,female,"chest pain, shortness of breath",Antacid
+70,female,"anxiety, insomnia, stress",Anti-inflammatory
+60,male,"abdominal pain, diarrhea, bloating",Antihistamine
+28,male,"dizziness, blurred vision",Vitamin Supplements
+30,female,"fever, body ache, chills",Antacid
+14,female,"abdominal pain, diarrhea, bloating",Antacid
+51,male,"skin rash, itching, redness",Antibiotic
+70,male,"joint pain, stiffness, swelling",Antibiotic
+31,female,"joint pain, stiffness, swelling",Antibiotic
+30,female,"fatigue, dizziness, weakness",Eye Drops
+79,female,"back pain, muscle ache",Pain Reliever
+10,female,"dizziness, blurred vision",Pain Reliever
+14,male,"fever, body ache, chills",Antacid
+21,male,"chest pain, shortness of breath",Antibiotic
+55,male,"fever, cough, sore throat",Decongestant
+43,female,"chest pain, shortness of breath",Anti-inflammatory
+58,female,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+54,male,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+36,male,"headache, nausea, vomiting",Pain Reliever
+35,male,"skin rash, itching, redness",Antacid
+56,male,"dizziness, blurred vision",Antihistamine
+65,female,"joint pain, stiffness, swelling",Cough Syrup
+72,male,"cold, sneezing, runny nose",Cough Syrup
+57,male,"fever, body ache, chills",Pain Reliever
+70,male,"chest pain, shortness of breath",Antihistamine
+35,male,"fever, body ache, chills",Eye Drops
+45,male,"abdominal pain, diarrhea, bloating",Eye Drops
+10,male,"back pain, muscle ache",Pain Reliever
+17,male,"fatigue, dizziness, weakness",Cough Syrup
+61,female,"fever, cough, sore throat",Antihistamine
+56,female,"skin rash, itching, redness",Antibiotic
+65,female,"back pain, muscle ache",Antacid
+23,female,"skin rash, itching, redness",Vitamin Supplements
+37,male,"headache, nausea, vomiting",Decongestant
+11,female,"cold, sneezing, runny nose",Ibuprofen
+35,female,"abdominal pain, diarrhea, bloating",Antacid
+23,male,"fatigue, dizziness, weakness",Antibiotic
+68,male,"dizziness, blurred vision",Anti-viral
+65,female,"back pain, muscle ache",Cough Syrup
+16,female,"skin rash, itching, redness",Antibiotic
+12,male,"joint pain, stiffness, swelling",Anti-viral
+32,female,"headache, nausea, vomiting",Pain Reliever
+27,male,"joint pain, stiffness, swelling",Antihistamine
+47,male,"fatigue, dizziness, weakness",Vitamin Supplements
+24,male,"dizziness, blurred vision",Anti-inflammatory
+73,male,"dizziness, blurred vision",Pain Reliever
+37,female,"back pain, muscle ache",Antacid
+48,male,"fever, body ache, chills",Pain Reliever
+66,male,"headache, nausea, vomiting",Antacid
+26,female,"dizziness, blurred vision",Anti-inflammatory
+53,male,"dizziness, blurred vision",Paracetamol
+34,female,"back pain, muscle ache",Anti-viral
+26,female,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+22,female,"anxiety, insomnia, stress",Decongestant
+34,male,"headache, nausea, vomiting",Decongestant
+77,female,"joint pain, stiffness, swelling",Anti-viral
+19,female,"fatigue, dizziness, weakness",Ibuprofen
+76,male,"dizziness, blurred vision",Antibiotic
+27,female,"dizziness, blurred vision",Paracetamol
+43,female,"cold, sneezing, runny nose",Anti-viral
+17,female,"abdominal pain, diarrhea, bloating",Decongestant
+49,female,"dizziness, blurred vision",Pain Reliever
+51,female,"anxiety, insomnia, stress",Antibiotic
+50,male,"cold, sneezing, runny nose",Paracetamol
+15,female,"fever, cough, sore throat",Antihistamine
+61,female,"abdominal pain, diarrhea, bloating",Antihistamine
+35,male,"fatigue, dizziness, weakness",Antibiotic
+73,male,"skin rash, itching, redness",Anti-viral
+68,male,"headache, nausea, vomiting",Antacid
+65,female,"back pain, muscle ache",Antacid
+68,male,"fatigue, dizziness, weakness",Pain Reliever
+79,female,"headache, nausea, vomiting",Paracetamol
+42,female,"cold, sneezing, runny nose",Paracetamol
+62,male,"fever, body ache, chills",Antibiotic
+31,male,"back pain, muscle ache",Cough Syrup
+30,female,"chest pain, shortness of breath",Antihistamine
+79,male,"joint pain, stiffness, swelling",Paracetamol
+79,female,"fever, cough, sore throat",Antibiotic
+13,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+71,male,"dizziness, blurred vision",Ibuprofen
+71,male,"fever, body ache, chills",Anti-inflammatory
+33,female,"fever, body ache, chills",Vitamin Supplements
+64,male,"fatigue, dizziness, weakness",Anti-viral
+18,female,"fever, cough, sore throat",Pain Reliever
+12,female,"skin rash, itching, redness",Paracetamol
+40,female,"headache, nausea, vomiting",Vitamin Supplements
+49,female,"headache, nausea, vomiting",Decongestant
+45,male,"fatigue, dizziness, weakness",Vitamin Supplements
+33,female,"anxiety, insomnia, stress",Antibiotic
+15,female,"anxiety, insomnia, stress",Paracetamol
+75,male,"dizziness, blurred vision",Ibuprofen
+13,female,"chest pain, shortness of breath",Anti-viral
+15,male,"joint pain, stiffness, swelling",Antibiotic
+60,female,"back pain, muscle ache",Antibiotic
+71,male,"skin rash, itching, redness",Pain Reliever
+66,female,"dizziness, blurred vision",Pain Reliever
+75,male,"fever, cough, sore throat",Antihistamine
+17,female,"anxiety, insomnia, stress",Antihistamine
+35,female,"chest pain, shortness of breath",Antacid
+60,male,"chest pain, shortness of breath",Cough Syrup
+54,male,"fatigue, dizziness, weakness",Paracetamol
+53,male,"skin rash, itching, redness",Paracetamol
+14,male,"cold, sneezing, runny nose",Eye Drops
+79,female,"back pain, muscle ache",Vitamin Supplements
+35,female,"joint pain, stiffness, swelling",Paracetamol
+77,male,"abdominal pain, diarrhea, bloating",Paracetamol
+28,female,"fatigue, dizziness, weakness",Cough Syrup
+29,male,"back pain, muscle ache",Decongestant
+21,male,"abdominal pain, diarrhea, bloating",Antihistamine
+56,female,"abdominal pain, diarrhea, bloating",Antihistamine
+10,female,"skin rash, itching, redness",Ibuprofen
+23,female,"skin rash, itching, redness",Paracetamol
+73,female,"dizziness, blurred vision",Cough Syrup
+47,female,"fever, cough, sore throat",Anti-viral
+46,female,"chest pain, shortness of breath",Antihistamine
+20,female,"back pain, muscle ache",Cough Syrup
+12,male,"fatigue, dizziness, weakness",Anti-inflammatory
+42,male,"dizziness, blurred vision",Decongestant
+15,male,"headache, nausea, vomiting",Paracetamol
+59,male,"fatigue, dizziness, weakness",Ibuprofen
+19,male,"fever, cough, sore throat",Vitamin Supplements
+14,female,"joint pain, stiffness, swelling",Antihistamine
+32,male,"fever, body ache, chills",Anti-inflammatory
+19,male,"fever, body ache, chills",Anti-viral
+53,male,"chest pain, shortness of breath",Cough Syrup
+11,male,"fever, body ache, chills",Pain Reliever
+22,male,"fever, body ache, chills",Antibiotic
+49,male,"headache, nausea, vomiting",Paracetamol
+11,male,"anxiety, insomnia, stress",Paracetamol
+74,female,"joint pain, stiffness, swelling",Anti-inflammatory
+72,female,"skin rash, itching, redness",Cough Syrup
+26,male,"abdominal pain, diarrhea, bloating",Antacid
+18,female,"anxiety, insomnia, stress",Paracetamol
+24,female,"fatigue, dizziness, weakness",Antacid
+33,female,"fatigue, dizziness, weakness",Anti-viral
+47,female,"fever, body ache, chills",Pain Reliever
+44,male,"skin rash, itching, redness",Anti-inflammatory
+58,female,"fever, cough, sore throat",Cough Syrup
+78,female,"back pain, muscle ache",Cough Syrup
+71,female,"anxiety, insomnia, stress",Eye Drops
+69,male,"anxiety, insomnia, stress",Anti-viral
+59,male,"cold, sneezing, runny nose",Anti-viral
+18,male,"joint pain, stiffness, swelling",Decongestant
+43,male,"chest pain, shortness of breath",Antibiotic
+44,male,"joint pain, stiffness, swelling",Antihistamine
+10,male,"back pain, muscle ache",Antihistamine
+49,male,"fatigue, dizziness, weakness",Eye Drops
+73,female,"fatigue, dizziness, weakness",Vitamin Supplements
+31,female,"fatigue, dizziness, weakness",Ibuprofen
+69,female,"cold, sneezing, runny nose",Anti-inflammatory
+73,male,"fatigue, dizziness, weakness",Pain Reliever
+20,male,"back pain, muscle ache",Cough Syrup
+23,male,"dizziness, blurred vision",Antibiotic
+69,male,"skin rash, itching, redness",Antacid
+39,male,"chest pain, shortness of breath",Anti-inflammatory
+44,female,"back pain, muscle ache",Vitamin Supplements
+46,female,"fever, body ache, chills",Anti-inflammatory
+14,male,"dizziness, blurred vision",Vitamin Supplements
+35,male,"chest pain, shortness of breath",Cough Syrup
+71,male,"back pain, muscle ache",Ibuprofen
+13,male,"dizziness, blurred vision",Vitamin Supplements
+51,female,"fatigue, dizziness, weakness",Cough Syrup
+27,male,"skin rash, itching, redness",Cough Syrup
+49,male,"anxiety, insomnia, stress",Ibuprofen
+48,male,"joint pain, stiffness, swelling",Antihistamine
+23,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+41,female,"skin rash, itching, redness",Eye Drops
+60,male,"anxiety, insomnia, stress",Paracetamol
+47,male,"fever, cough, sore throat",Paracetamol
+32,female,"back pain, muscle ache",Eye Drops
+72,female,"fever, cough, sore throat",Antacid
+24,female,"anxiety, insomnia, stress",Anti-viral
+34,male,"skin rash, itching, redness",Antacid
+26,male,"back pain, muscle ache",Anti-viral
+75,female,"fever, body ache, chills",Eye Drops
+62,female,"abdominal pain, diarrhea, bloating",Paracetamol
+60,female,"fatigue, dizziness, weakness",Pain Reliever
+48,female,"back pain, muscle ache",Paracetamol
+60,female,"fever, body ache, chills",Antacid
+79,female,"back pain, muscle ache",Antibiotic
+15,male,"skin rash, itching, redness",Eye Drops
+76,male,"fever, body ache, chills",Antacid
+16,male,"skin rash, itching, redness",Pain Reliever
+60,female,"dizziness, blurred vision",Anti-inflammatory
+51,female,"anxiety, insomnia, stress",Anti-viral
+73,female,"headache, nausea, vomiting",Paracetamol
+24,female,"back pain, muscle ache",Ibuprofen
+38,female,"joint pain, stiffness, swelling",Antibiotic
+42,female,"back pain, muscle ache",Cough Syrup
+36,male,"anxiety, insomnia, stress",Pain Reliever
+45,male,"chest pain, shortness of breath",Antacid
+38,female,"fever, cough, sore throat",Anti-viral
+47,male,"dizziness, blurred vision",Ibuprofen
+66,female,"fatigue, dizziness, weakness",Vitamin Supplements
+36,male,"fever, body ache, chills",Antihistamine
+64,female,"headache, nausea, vomiting",Paracetamol
+42,female,"abdominal pain, diarrhea, bloating",Antihistamine
+77,male,"abdominal pain, diarrhea, bloating",Pain Reliever
+75,male,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+19,female,"skin rash, itching, redness",Vitamin Supplements
+14,female,"abdominal pain, diarrhea, bloating",Vitamin Supplements
+47,male,"fatigue, dizziness, weakness",Cough Syrup
+22,male,"dizziness, blurred vision",Pain Reliever
+40,female,"fever, cough, sore throat",Anti-inflammatory
+56,male,"abdominal pain, diarrhea, bloating",Antihistamine
+61,female,"back pain, muscle ache",Anti-inflammatory
+65,female,"back pain, muscle ache",Ibuprofen
+24,female,"skin rash, itching, redness",Decongestant
+38,female,"fatigue, dizziness, weakness",Antibiotic
+17,male,"fever, cough, sore throat",Antibiotic
+14,male,"headache, nausea, vomiting",Anti-inflammatory
+38,male,"anxiety, insomnia, stress",Decongestant
+56,male,"fever, cough, sore throat",Decongestant
+77,male,"anxiety, insomnia, stress",Paracetamol
+54,male,"chest pain, shortness of breath",Ibuprofen
+11,male,"anxiety, insomnia, stress",Pain Reliever
+36,female,"dizziness, blurred vision",Decongestant
+45,male,"joint pain, stiffness, swelling",Antacid
+45,male,"dizziness, blurred vision",Eye Drops
+35,female,"back pain, muscle ache",Antibiotic
+52,male,"fatigue, dizziness, weakness",Antacid
+36,male,"cold, sneezing, runny nose",Ibuprofen
+78,female,"skin rash, itching, redness",Decongestant
+29,male,"joint pain, stiffness, swelling",Antihistamine
+20,male,"anxiety, insomnia, stress",Antibiotic
+47,male,"abdominal pain, diarrhea, bloating",Paracetamol
+15,female,"fatigue, dizziness, weakness",Anti-viral
+32,male,"joint pain, stiffness, swelling",Paracetamol
+56,male,"skin rash, itching, redness",Eye Drops
+55,female,"back pain, muscle ache",Vitamin Supplements
+21,male,"fatigue, dizziness, weakness",Anti-viral
+22,female,"skin rash, itching, redness",Cough Syrup
+71,female,"chest pain, shortness of breath",Decongestant
+69,male,"chest pain, shortness of breath",Ibuprofen
+52,female,"dizziness, blurred vision",Antibiotic
+77,female,"dizziness, blurred vision",Cough Syrup
+14,male,"skin rash, itching, redness",Ibuprofen
+46,female,"joint pain, stiffness, swelling",Eye Drops
+40,female,"dizziness, blurred vision",Anti-inflammatory
+18,male,"fatigue, dizziness, weakness",Decongestant
+60,male,"joint pain, stiffness, swelling",Pain Reliever
+38,male,"dizziness, blurred vision",Pain Reliever
+49,female,"headache, nausea, vomiting",Decongestant
+50,male,"anxiety, insomnia, stress",Anti-viral
+20,female,"headache, nausea, vomiting",Vitamin Supplements
+32,female,"fever, body ache, chills",Vitamin Supplements
+10,female,"chest pain, shortness of breath",Anti-viral
+55,female,"back pain, muscle ache",Pain Reliever
+30,female,"fever, cough, sore throat",Antihistamine
+45,female,"anxiety, insomnia, stress",Anti-viral
+63,female,"chest pain, shortness of breath",Antibiotic
+66,male,"joint pain, stiffness, swelling",Pain Reliever
+10,male,"joint pain, stiffness, swelling",Antihistamine
+72,female,"joint pain, stiffness, swelling",Eye Drops
+63,female,"back pain, muscle ache",Cough Syrup
+64,male,"headache, nausea, vomiting",Antihistamine
+49,female,"fever, cough, sore throat",Cough Syrup
+24,male,"dizziness, blurred vision",Ibuprofen
+30,male,"joint pain, stiffness, swelling",Antacid
+56,male,"cold, sneezing, runny nose",Ibuprofen
+62,female,"fever, body ache, chills",Pain Reliever
+18,female,"anxiety, insomnia, stress",Cough Syrup
+61,male,"fatigue, dizziness, weakness",Pain Reliever
+66,male,"dizziness, blurred vision",Anti-viral
+35,male,"cold, sneezing, runny nose",Decongestant
+50,male,"fever, cough, sore throat",Antibiotic
+44,male,"back pain, muscle ache",Paracetamol
+72,female,"fever, cough, sore throat",Pain Reliever
+34,male,"fatigue, dizziness, weakness",Antibiotic
+47,female,"anxiety, insomnia, stress",Anti-viral
+11,male,"fatigue, dizziness, weakness",Antihistamine
+16,female,"skin rash, itching, redness",Anti-viral
+43,female,"anxiety, insomnia, stress",Eye Drops
+26,female,"fever, cough, sore throat",Ibuprofen
+52,female,"joint pain, stiffness, swelling",Antihistamine
+68,female,"fever, cough, sore throat",Paracetamol
+60,female,"fever, cough, sore throat",Cough Syrup
+63,male,"anxiety, insomnia, stress",Decongestant
+33,female,"fever, body ache, chills",Antibiotic
+34,male,"skin rash, itching, redness",Decongestant
+61,female,"dizziness, blurred vision",Antacid
+79,female,"fever, cough, sore throat",Anti-viral
+42,male,"cold, sneezing, runny nose",Pain Reliever
+58,female,"chest pain, shortness of breath",Cough Syrup
+38,male,"abdominal pain, diarrhea, bloating",Antacid
+72,male,"abdominal pain, diarrhea, bloating",Anti-viral
+31,male,"fever, cough, sore throat",Anti-inflammatory
+35,male,"cold, sneezing, runny nose",Pain Reliever
+37,female,"fever, body ache, chills",Antihistamine
+58,female,"joint pain, stiffness, swelling",Ibuprofen
+58,male,"back pain, muscle ache",Antibiotic
+29,female,"back pain, muscle ache",Eye Drops
+72,female,"anxiety, insomnia, stress",Paracetamol
+70,male,"abdominal pain, diarrhea, bloating",Paracetamol
+58,female,"fever, cough, sore throat",Antihistamine
+10,male,"back pain, muscle ache",Vitamin Supplements
+22,male,"fever, cough, sore throat",Paracetamol
+60,female,"anxiety, insomnia, stress",Antibiotic
+65,female,"abdominal pain, diarrhea, bloating",Antihistamine
+71,female,"fatigue, dizziness, weakness",Cough Syrup
+41,male,"fever, body ache, chills",Paracetamol
+39,male,"chest pain, shortness of breath",Decongestant
+38,female,"chest pain, shortness of breath",Antihistamine
+58,female,"back pain, muscle ache",Antibiotic
+54,female,"chest pain, shortness of breath",Decongestant
+39,female,"fever, body ache, chills",Pain Reliever
+25,male,"fatigue, dizziness, weakness",Pain Reliever
+49,female,"fever, body ache, chills",Paracetamol
+28,male,"fever, cough, sore throat",Decongestant
+27,male,"anxiety, insomnia, stress",Ibuprofen
+10,female,"dizziness, blurred vision",Anti-viral
+56,female,"fatigue, dizziness, weakness",Pain Reliever
+75,female,"dizziness, blurred vision",Ibuprofen
+47,male,"anxiety, insomnia, stress",Cough Syrup
+60,female,"anxiety, insomnia, stress",Antihistamine
+72,female,"abdominal pain, diarrhea, bloating",Anti-viral
+13,male,"dizziness, blurred vision",Antacid
+10,female,"fever, cough, sore throat",Antibiotic
+17,male,"cold, sneezing, runny nose",Eye Drops
+38,female,"chest pain, shortness of breath",Antihistamine
+64,male,"dizziness, blurred vision",Anti-viral
+12,female,"cold, sneezing, runny nose",Antibiotic
+41,female,"abdominal pain, diarrhea, bloating",Anti-viral
+19,male,"anxiety, insomnia, stress",Decongestant
+43,male,"back pain, muscle ache",Cough Syrup
+64,female,"fever, body ache, chills",Anti-inflammatory
+41,male,"chest pain, shortness of breath",Eye Drops
+59,male,"chest pain, shortness of breath",Paracetamol
+16,male,"fever, cough, sore throat",Anti-viral
+17,male,"skin rash, itching, redness",Antibiotic
+74,female,"headache, nausea, vomiting",Antibiotic
+66,female,"headache, nausea, vomiting",Decongestant
+76,male,"headache, nausea, vomiting",Ibuprofen
+68,male,"skin rash, itching, redness",Antihistamine
+63,male,"fever, cough, sore throat",Anti-inflammatory
+76,male,"skin rash, itching, redness",Vitamin Supplements
+60,female,"headache, nausea, vomiting",Paracetamol
+17,female,"abdominal pain, diarrhea, bloating",Antacid
+43,male,"fatigue, dizziness, weakness",Vitamin Supplements
+44,male,"dizziness, blurred vision",Antihistamine
+41,male,"anxiety, insomnia, stress",Paracetamol
+55,female,"skin rash, itching, redness",Antibiotic
+25,male,"fever, cough, sore throat",Antacid
+77,female,"fever, cough, sore throat",Anti-viral
+46,male,"dizziness, blurred vision",Ibuprofen
+63,female,"cold, sneezing, runny nose",Anti-inflammatory
+23,male,"fatigue, dizziness, weakness",Anti-viral
+64,female,"back pain, muscle ache",Ibuprofen
+57,male,"chest pain, shortness of breath",Cough Syrup
+16,male,"headache, nausea, vomiting",Decongestant
+16,male,"back pain, muscle ache",Paracetamol
+42,female,"cold, sneezing, runny nose",Anti-viral
+32,male,"headache, nausea, vomiting",Ibuprofen
+28,female,"fatigue, dizziness, weakness",Vitamin Supplements
+28,female,"fever, body ache, chills",Decongestant
+45,male,"cold, sneezing, runny nose",Ibuprofen
+38,male,"headache, nausea, vomiting",Pain Reliever
+69,male,"fatigue, dizziness, weakness",Cough Syrup
+11,female,"joint pain, stiffness, swelling",Antihistamine
+10,male,"back pain, muscle ache",Anti-viral
+56,female,"back pain, muscle ache",Anti-inflammatory
+78,female,"chest pain, shortness of breath",Cough Syrup
+29,male,"dizziness, blurred vision",Decongestant
+20,male,"fatigue, dizziness, weakness",Pain Reliever
+11,male,"skin rash, itching, redness",Paracetamol
+76,male,"joint pain, stiffness, swelling",Vitamin Supplements
+21,male,"fever, body ache, chills",Anti-inflammatory
+29,male,"abdominal pain, diarrhea, bloating",Anti-viral
+14,female,"headache, nausea, vomiting",Anti-inflammatory
+46,female,"joint pain, stiffness, swelling",Cough Syrup
+47,female,"fatigue, dizziness, weakness",Decongestant
+18,male,"anxiety, insomnia, stress",Paracetamol
+62,female,"headache, nausea, vomiting",Antibiotic
+53,female,"fever, cough, sore throat",Pain Reliever
+33,female,"back pain, muscle ache",Anti-viral
+39,female,"dizziness, blurred vision",Antibiotic
+68,female,"fatigue, dizziness, weakness",Vitamin Supplements
+23,male,"fever, body ache, chills",Paracetamol
+18,male,"fever, cough, sore throat",Eye Drops
+49,female,"chest pain, shortness of breath",Eye Drops
+75,female,"cold, sneezing, runny nose",Paracetamol
+34,female,"abdominal pain, diarrhea, bloating",Pain Reliever
+31,male,"abdominal pain, diarrhea, bloating",Antacid
+13,male,"fever, cough, sore throat",Antibiotic
+35,female,"back pain, muscle ache",Ibuprofen
+67,male,"chest pain, shortness of breath",Anti-inflammatory
+38,male,"anxiety, insomnia, stress",Anti-viral
+46,female,"back pain, muscle ache",Antacid
+79,male,"joint pain, stiffness, swelling",Ibuprofen
+27,male,"dizziness, blurred vision",Decongestant
+51,female,"abdominal pain, diarrhea, bloating",Anti-viral
+50,male,"joint pain, stiffness, swelling",Anti-viral
+47,male,"fever, body ache, chills",Eye Drops
+43,female,"headache, nausea, vomiting",Pain Reliever
+26,male,"skin rash, itching, redness",Decongestant
+46,male,"fatigue, dizziness, weakness",Anti-inflammatory
+34,female,"chest pain, shortness of breath",Antihistamine
+36,female,"back pain, muscle ache",Ibuprofen
+66,female,"abdominal pain, diarrhea, bloating",Eye Drops
+40,male,"joint pain, stiffness, swelling",Anti-viral
+15,female,"cold, sneezing, runny nose",Antacid
+49,male,"dizziness, blurred vision",Eye Drops
+21,female,"dizziness, blurred vision",Ibuprofen
+62,male,"headache, nausea, vomiting",Ibuprofen
+19,female,"fatigue, dizziness, weakness",Pain Reliever
+54,female,"fatigue, dizziness, weakness",Anti-viral
+26,female,"dizziness, blurred vision",Decongestant
+35,female,"dizziness, blurred vision",Antibiotic
+71,male,"back pain, muscle ache",Antihistamine
+55,female,"chest pain, shortness of breath",Pain Reliever
+73,female,"anxiety, insomnia, stress",Vitamin Supplements
+11,male,"fever, body ache, chills",Anti-viral
+63,female,"cold, sneezing, runny nose",Pain Reliever
+74,male,"fever, body ache, chills",Anti-inflammatory
+60,female,"back pain, muscle ache",Antihistamine
+62,female,"joint pain, stiffness, swelling",Eye Drops
+45,female,"skin rash, itching, redness",Paracetamol
+35,male,"dizziness, blurred vision",Vitamin Supplements
+38,female,"fever, cough, sore throat",Cough Syrup
+30,female,"anxiety, insomnia, stress",Pain Reliever
+20,female,"chest pain, shortness of breath",Ibuprofen
+49,male,"headache, nausea, vomiting",Antibiotic
+20,male,"anxiety, insomnia, stress",Paracetamol
+45,female,"dizziness, blurred vision",Pain Reliever
+68,male,"abdominal pain, diarrhea, bloating",Pain Reliever
+48,female,"chest pain, shortness of breath",Antacid
+63,female,"skin rash, itching, redness",Antacid
+64,female,"abdominal pain, diarrhea, bloating",Paracetamol
+33,female,"anxiety, insomnia, stress",Decongestant
+31,female,"fever, cough, sore throat",Eye Drops
+78,female,"fever, cough, sore throat",Antacid
+65,female,"skin rash, itching, redness",Ibuprofen
+42,male,"fatigue, dizziness, weakness",Vitamin Supplements
+45,male,"cold, sneezing, runny nose",Cough Syrup
+29,male,"dizziness, blurred vision",Antihistamine
+71,male,"headache, nausea, vomiting",Cough Syrup
+35,male,"dizziness, blurred vision",Cough Syrup
+75,male,"fatigue, dizziness, weakness",Antihistamine
+49,male,"fever, body ache, chills",Antacid
+26,female,"fever, body ache, chills",Paracetamol
+10,female,"fever, body ache, chills",Antihistamine
+70,female,"fever, cough, sore throat",Eye Drops
+52,female,"fever, cough, sore throat",Eye Drops
+51,male,"joint pain, stiffness, swelling",Anti-viral
+34,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+48,female,"anxiety, insomnia, stress",Decongestant
+44,female,"headache, nausea, vomiting",Vitamin Supplements
+12,male,"skin rash, itching, redness",Antibiotic
+53,female,"anxiety, insomnia, stress",Antacid
+60,female,"dizziness, blurred vision",Decongestant
+21,female,"joint pain, stiffness, swelling",Antihistamine
+28,female,"fever, cough, sore throat",Anti-inflammatory
+53,male,"skin rash, itching, redness",Antibiotic
+68,female,"fever, cough, sore throat",Vitamin Supplements
+58,female,"headache, nausea, vomiting",Vitamin Supplements
+70,male,"abdominal pain, diarrhea, bloating",Antacid
+26,male,"anxiety, insomnia, stress",Antihistamine
+66,female,"anxiety, insomnia, stress",Decongestant
+64,male,"fever, body ache, chills",Paracetamol
+56,female,"fatigue, dizziness, weakness",Decongestant
+21,female,"fever, body ache, chills",Decongestant
+71,male,"skin rash, itching, redness",Vitamin Supplements
+17,female,"cold, sneezing, runny nose",Paracetamol
+30,female,"fever, body ache, chills",Paracetamol
+79,female,"joint pain, stiffness, swelling",Antacid
+34,female,"fever, body ache, chills",Antibiotic
+21,male,"fever, body ache, chills",Pain Reliever
+24,male,"cold, sneezing, runny nose",Cough Syrup
+68,female,"fatigue, dizziness, weakness",Cough Syrup
+35,male,"headache, nausea, vomiting",Vitamin Supplements
+35,female,"joint pain, stiffness, swelling",Pain Reliever
+56,female,"fever, body ache, chills",Antibiotic
+41,female,"abdominal pain, diarrhea, bloating",Pain Reliever
+19,female,"cold, sneezing, runny nose",Antacid
+25,female,"abdominal pain, diarrhea, bloating",Decongestant
+26,male,"cold, sneezing, runny nose",Vitamin Supplements
+32,female,"abdominal pain, diarrhea, bloating",Paracetamol
+35,male,"cold, sneezing, runny nose",Eye Drops
+16,male,"dizziness, blurred vision",Vitamin Supplements
+23,female,"abdominal pain, diarrhea, bloating",Cough Syrup
+16,female,"fatigue, dizziness, weakness",Antibiotic
+18,female,"chest pain, shortness of breath",Pain Reliever
+57,female,"joint pain, stiffness, swelling",Antibiotic
+68,female,"skin rash, itching, redness",Antacid
+48,male,"headache, nausea, vomiting",Vitamin Supplements
+27,female,"dizziness, blurred vision",Antihistamine
+68,female,"back pain, muscle ache",Vitamin Supplements
+26,male,"fever, cough, sore throat",Paracetamol
+23,male,"fever, body ache, chills",Vitamin Supplements
+40,female,"skin rash, itching, redness",Anti-inflammatory
+33,male,"fever, cough, sore throat",Antacid
+69,female,"joint pain, stiffness, swelling",Ibuprofen
+54,male,"skin rash, itching, redness",Antacid
+12,male,"abdominal pain, diarrhea, bloating",Pain Reliever
+46,female,"abdominal pain, diarrhea, bloating",Eye Drops
+52,male,"back pain, muscle ache",Ibuprofen
+49,male,"fever, cough, sore throat",Pain Reliever
+64,male,"headache, nausea, vomiting",Pain Reliever
+48,male,"joint pain, stiffness, swelling",Paracetamol
+24,male,"abdominal pain, diarrhea, bloating",Paracetamol
+13,male,"fever, body ache, chills",Anti-viral
+34,female,"chest pain, shortness of breath",Decongestant
+22,female,"fatigue, dizziness, weakness",Cough Syrup
+42,male,"fatigue, dizziness, weakness",Decongestant
+25,female,"cold, sneezing, runny nose",Decongestant
+51,female,"headache, nausea, vomiting",Eye Drops
+75,female,"fatigue, dizziness, weakness",Cough Syrup
+64,male,"cold, sneezing, runny nose",Antihistamine
+51,female,"fever, cough, sore throat",Ibuprofen
+43,male,"abdominal pain, diarrhea, bloating",Antibiotic
+39,female,"dizziness, blurred vision",Decongestant
+22,male,"abdominal pain, diarrhea, bloating",Eye Drops
+22,male,"dizziness, blurred vision",Anti-viral
+27,female,"fever, body ache, chills",Vitamin Supplements
+41,female,"chest pain, shortness of breath",Vitamin Supplements
+48,male,"skin rash, itching, redness",Pain Reliever
+55,female,"fatigue, dizziness, weakness",Cough Syrup
+38,female,"fever, cough, sore throat",Pain Reliever
+71,female,"dizziness, blurred vision",Eye Drops
+71,male,"anxiety, insomnia, stress",Anti-inflammatory
+66,male,"fatigue, dizziness, weakness",Anti-inflammatory
+25,female,"headache, nausea, vomiting",Anti-viral
+65,female,"fever, body ache, chills",Antibiotic
+19,female,"skin rash, itching, redness",Paracetamol
+39,male,"fatigue, dizziness, weakness",Paracetamol
+34,male,"fever, cough, sore throat",Cough Syrup
+14,female,"fatigue, dizziness, weakness",Cough Syrup
+74,female,"dizziness, blurred vision",Decongestant
+58,female,"headache, nausea, vomiting",Anti-inflammatory
+12,female,"anxiety, insomnia, stress",Decongestant
+54,female,"joint pain, stiffness, swelling",Paracetamol
+23,female,"back pain, muscle ache",Ibuprofen
+39,male,"anxiety, insomnia, stress",Ibuprofen
+77,female,"cold, sneezing, runny nose",Cough Syrup
+27,male,"fatigue, dizziness, weakness",Pain Reliever
+71,female,"abdominal pain, diarrhea, bloating",Paracetamol
+46,female,"chest pain, shortness of breath",Ibuprofen
+34,male,"abdominal pain, diarrhea, bloating",Paracetamol
+57,male,"anxiety, insomnia, stress",Antacid
+74,male,"dizziness, blurred vision",Vitamin Supplements
+62,male,"abdominal pain, diarrhea, bloating",Anti-inflammatory
+24,female,"fever, cough, sore throat",Decongestant
+58,male,"abdominal pain, diarrhea, bloating",Paracetamol
+77,female,"skin rash, itching, redness",Vitamin Supplements
+21,male,"joint pain, stiffness, swelling",Antacid
+68,female,"fatigue, dizziness, weakness",Decongestant
+46,female,"fever, body ache, chills",Paracetamol
+70,female,"abdominal pain, diarrhea, bloating",Cough Syrup
+52,female,"headache, nausea, vomiting",Vitamin Supplements
+79,female,"fever, body ache, chills",Decongestant
